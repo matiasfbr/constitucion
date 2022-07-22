@@ -21,7 +21,7 @@ Artículo 110.- Para el gobierno y administración interior del Estado, el terri
 
 
     Artículo 112.- Derogado
-    Artículo 113. El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
+    Artículo 113.- El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
     El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos sucesivamente en el cargo hasta por dos períodos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
     El consejo regional podrá fiscalizar los actos del gobierno regional. Para ejercer esta atribución el consejo regional, con el voto conforme de un tercio de los consejeros regionales presentes, podrá adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al gobernador regional, quien deberá dar respuesta fundada dentro de treinta días.
     Las demás atribuciones fiscalizadoras del consejo regional y su ejercicio serán determinadas por la ley orgánica constitucional respectiva.
@@ -37,7 +37,7 @@ Artículo 110.- Para el gobierno y administración interior del Estado, el terri
 
 
 
-    Artículo 114. La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República transferirá a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
+    Artículo 114.- La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República transferirá a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
 
 
 
@@ -133,7 +133,7 @@ Artículo 117.- Los delegados presidenciales provinciales, en los casos y forma 
 
 
 
-    Artículo 125 bis. Para determinar el límite a la reelección que se aplica a los gobernadores regionales, consejeros regionales, alcaldes y concejales, se considerará que han ejercido su cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
+    Artículo 125 bis.- Para determinar el límite a la reelección que se aplica a los gobernadores regionales, consejeros regionales, alcaldes y concejales, se considerará que han ejercido su cargo durante un período cuando hayan cumplido más de la mitad de su mandato.
 
 
     Artículo 126.- La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
